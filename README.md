@@ -18,7 +18,7 @@ Note ¹: To work properly when developing your own Canvas interface, locate your
 
 Note 2: In 'Input System UI Input Module'->Submit it is 'None' as the joystick/southButton is recognized as UI/Submit, automatically applying the same input during rebind. This problem will not occur depending on how you work with your Canvas/Menu System.
 
-# Configuration
+# Making Settings
 
 In the scene example 'Scenes/Rebind System Example', localize in Hiearchy Canvas->ControlsPanel->PSPanel->Rebind Button.  
 <img src= "https://i.ibb.co/R6f0Xb2/rebind-button2.png" width='400px'>
