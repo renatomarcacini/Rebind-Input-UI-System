@@ -8,7 +8,7 @@ Simple system to rebind buttons with new input system.
 2) In Player Settings->Other Settings->Active Input Handling; Change 'Input Manager (old) or Input System Package (new)' to 'Both'.
 3) Open and play the scene example in Scenes/Rebind System Example.<br> 
 
-Note ¹: To work properly when developing your own Canvas interface, locate your EventSystem and check that the 'Standalone Input Module' has been updated to 'Input System UI Input Module'. To do this, click on 'Replace with InputSystemUIInputModule' generating the result below.: <br>
+Note ¹: To work properly when developing your own Canvas interface, locate your EventSystem and check that the 'Standalone Input Module' has been updated to 'Input System UI Input Module'. To do this, click on 'Replace with InputSystemUIInputModule' generating the result below. <br>
 
 [EventSystem] Old input system: <br>
 <img src= "https://i.ibb.co/gZTwDNs/event-system-before.png" width='400px'>
